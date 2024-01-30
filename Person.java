@@ -1,5 +1,5 @@
-public class Person {
-    // Define instance variables
+class Person {
+    // Define instance variables: firstName (String), lastName (String), age (int)
     private String firstName;
     private String lastName;
     private int age;
